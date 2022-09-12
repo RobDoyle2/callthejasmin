@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
   
 env:
-  AWS_ACCESS_KEY_ID: ${{ secrets.AKIA5W2K4U72ZMVCQKYI }}
-  AWS_SECRET_ACCESS_KEY: ${{ secrets.sf2iDs4H/qe96YffH2QH0lVJgxtG0s0NtqPBEqoQ }}
+  AWS_ACCESS_KEY_ID: ${{ secrets.AKIA5W2K4U722DYT6LVF }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.aszYe5sqBd0IgmCgqS9qL9zmAFywBA7OwzvnDPFP }}
   AWS_DEFAULT_REGION: 'us-west-2'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
