@@ -1,15 +1,15 @@
-title:              Jasmin Doyle
-email:              nimsajmw@gmail.com
-description:        Professional midwife serving the South East
-author:             Jasmin Doyle
+title:              Nuloha
+email:              info@nuloha.com
+description:        I.T. Infrastructure Service Provider
+author:             Robert Doyle
 # baseurl:            "/startbootstrap-clean-blog-jekyll"
 baseurl: "" # the subpath of your site, e.g. /blog
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   jasmindoyle
-github_username:    jasmindoyle
-facebook_username:  jasmindoyle
+twitter_username:   nuloha
+github_username:    nuloha
+facebook_username:  nuloha
 instagram_username:  
 linkedin_username:
 
