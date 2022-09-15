@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Application Packaging
-date: 2022-09-09 11:24 +0100
+date: 2021-09-09 11:24 +0100
 background: '/img/posts/bg-index.jpg'
 ---
 <p>A uniformed method of delivering and updating an application to thousands or 10’s of thousands end user Windows PC. With over 20 years experience we use <b>Windows Installer, executable scripting</b> and <b>Microsoft App-V</b> to ensure clean precise deployment with little, to no, user downtime. </p>
