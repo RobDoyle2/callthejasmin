@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Customs Declarations
+subtitle: "Avoid paperwork delays when importing vehicles from the UK and elsewhere "
 date: 2021-10-08 17:08 +0100
 background: '/img/posts/06.jpg'
 ---
