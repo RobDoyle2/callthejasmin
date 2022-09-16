@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Application Packaging
+subtitle: "Centralize control over your companies software and full automate its installation ."
 date: 2021-09-09 11:24 +0100
 background: '/img/posts/bg-index.jpg'
 ---
