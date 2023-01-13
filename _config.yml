@@ -7,11 +7,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   nuloha
-github_username:    nuloha
-facebook_username:  nuloha
-instagram_username:  
-linkedin_username: nuloha
+# twitter_username:   nuloha
+# github_username:    nuloha
+# facebook_username:  nuloha
+# instagram_username:  
+linkedin_username: robertvdoyle
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
